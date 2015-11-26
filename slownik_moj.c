@@ -17,6 +17,6 @@ int main (void)
 		}
 	}
 	printf("%s", najdluzsze);
-	fclose(plik);
+	fse(plik);
 	return 0;
 }

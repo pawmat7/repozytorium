@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main (void)
 {
-	char slowo[100];
+	char swo[100];
 	FILE *plik;
 	plik=fopen("polski.txt", "r");
 	if (plik==NULL) 
